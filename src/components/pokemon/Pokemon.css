@@ -1,0 +1,22 @@
+.poke-staff{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-poke-container{
+    display: flex;
+    gap: .5em;
+}
+
+.Nav-sekker-container{
+    padding: 1.2em 0;
+}
+
+.form-sekker{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5em;
+}
